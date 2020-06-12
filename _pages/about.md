@@ -1,7 +1,6 @@
 ---
 title: "About me"
 permalink: /about/
-layout: page
 header: 
  image: "/images/header-image.jpg"
 ---

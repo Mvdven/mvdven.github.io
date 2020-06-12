@@ -1,7 +1,8 @@
 ---
+layout: archive
 title: "Categories"
 permalink: /categories/
-layout: page
+author_profile: true
 header: 
  image: "/images/header-image.jpg"
 ---
