@@ -1,12 +1,10 @@
 ---
 title: "Categories"
 permalink: /categories/
-layout: pages
+layout: page
 header: 
  image: "/images/header-image.jpg"
-author_profile: true
 ---
-
 
 <div id="archives">
 {% for category in site.categories %}
@@ -19,7 +17,7 @@ author_profile: true
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
-      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
     </article>
     {% endfor %}
   </div>
