@@ -1,8 +1,9 @@
- 
 ---
-layout: page
+title: "Categories"
 permalink: /categories/
-title: Categories
+layout: page
+header: 
+ image: "/images/header-image.jpg"
 ---
 
 
