@@ -1,6 +1,7 @@
 ---
 title: "Categories"
 permalink: /categories/
+layout: page
 header: 
  image: "/images/header-image.jpg"
 ---
