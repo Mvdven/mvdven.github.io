@@ -1,9 +1,10 @@
 ---
 title: "Categories"
 permalink: /categories/
-layout: page
+layout: pages
 header: 
  image: "/images/header-image.jpg"
+author_profile: true
 ---
 
 
