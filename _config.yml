@@ -101,10 +101,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "mailto:mvdven97@gmail.com"
+    - label: "Linked In"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://linkedin.com/in/max-van-de-ven"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -129,7 +129,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Mvdven"
+      # url: "https://github.com/Mvdven"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
