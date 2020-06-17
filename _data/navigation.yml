@@ -24,7 +24,7 @@ sidebar-SVM:
         url: /machine%20learning%20algorithms/SVM/#14-primal-form
   - title: "2. Soft margin primal form"
     children:
-      - title: "2.1 L1 regularization"
+      - title: "2.1 Regularization"
         url: /
       - title: "2.2 Hinge loss function"
         url: /
