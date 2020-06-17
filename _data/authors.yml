@@ -6,3 +6,6 @@ Max van de Ven:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:mvdven97@gmail.com"
+    - label: "Linked In"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://linkedin.com/in/max-van-de-ven"
