@@ -12,16 +12,14 @@ main:
   #   url: /sitemap/
 
 sidebar-SVM:
-  - title: "Primal form"
+  - title: "1. Decision boundary and primal form"
     children:
-      - title: "Child Page A1"
-        url: /
-      - title: "Child Page A2"
-        url: /
-      - title: "Child Page A3"
-        url: /
-      - title: "Child Page A4"
-        url: /
+      - title: "1.1 Functional margin"
+        url: /SVM1/#11-functional-margin
+      - title: "1.2 Geometric margin"
+        url: /SVM1/#12-geometric-margin
+      - title: "1.3 Primal form"
+        url: /SVM1/#13-primal-form
   - title: "Dual form"
     children:
       - title: "Child Page B1"
