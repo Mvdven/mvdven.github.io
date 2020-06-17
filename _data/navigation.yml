@@ -25,11 +25,11 @@ sidebar-SVM:
   - title: "2. Soft margin primal form"
     children:
       - title: "2.1 Regularization"
-        url: /
+        url: /machine%20learning%20algorithms/SVM/#21-regularization
       - title: "2.2 Hinge loss function"
-        url: /
+        url: /machine%20learning%20algorithms/SVM/#22-hinge-loss-function
       - title: "2.3 Gradient descent"
-        url: /
+        url: /machine%20learning%20algorithms/SVM/#23-gradient-descent
   - title: "SVO algorithm"
     children:
       - title: "Child Page B1"
