@@ -30,15 +30,11 @@ sidebar-SVM:
         url: /machine%20learning%20algorithms/SVM/#22-hinge-loss-function
       - title: "2.3 Solving soft margin primal form"
         url: /machine%20learning%20algorithms/SVM/#23-solving-soft-margin-primal-form
-  - title: "SVO algorithm"
+  - title: "3. Dual form"
     children:
-      - title: "Child Page B1"
-        url: /
-      - title: "Child Page B2"
-        url: /
-      - title: "Child Page B3"
-        url: /
-      - title: "Child Page B4"
-        url: /
-      - title: "Child Page B5"
-        url: /
+      - title: "3.1 Dual Lagrangian"
+        url: /machine%20learning%20algorithms/SVM/#31-dual-lagrangian
+      - title: "3.2 KKT Conditions and strong duality"
+        url: /machine%20learning%20algorithms/SVM/#32-kkt-conditions-and-strong-duality
+      - title: "3.3 Classification"
+        url: /machine%20learning%20algorithms/SVM/#33-classification
