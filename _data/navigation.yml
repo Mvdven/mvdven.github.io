@@ -32,9 +32,11 @@ sidebar-SVM:
         url: /machine%20learning%20algorithms/SVM/#23-solving-soft-margin-primal-form
   - title: "3. Dual form"
     children:
-      - title: "3.1 Dual Lagrangian"
-        url: /machine%20learning%20algorithms/SVM/#31-dual-lagrangian
-      - title: "3.2 KKT Conditions and strong duality"
-        url: /machine%20learning%20algorithms/SVM/#32-kkt-conditions-and-strong-duality
-      - title: "3.3 Classification"
-        url: /machine%20learning%20algorithms/SVM/#33-classification
+      - title: "3.1 Dual optimization"
+        url: /machine%20learning%20algorithms/SVM/#31-dual-optimizion
+      - title: "3.2 Solving dual form"
+        url: /machine%20learning%20algorithms/SVM/#32-solving-dual-form
+      - title: "3.3 KKT Conditions and strong duality"
+        url: /machine%20learning%20algorithms/SVM/#33-kkt-conditions-and-strong-duality
+      - title: "3.4 Classification"
+        url: /machine%20learning%20algorithms/SVM/#34-classification
