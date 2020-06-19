@@ -40,3 +40,11 @@ sidebar-SVM:
         url: /machine%20learning%20algorithms/SVM/#33-kkt-conditions-and-strong-duality
       - title: "3.4 Classification"
         url: /machine%20learning%20algorithms/SVM/#34-classification
+  - title: "4. Kernelization"
+    children:
+      - title: "4.1 Kernel-trick"
+        url: /machine%20learning%20algorithms/SVM/#41-kernel-trick
+      - title: "4.2 Example"
+        url: /machine%20learning%20algorithms/SVM/#42-example
+      - title: "4.3 Kernelized SVM"
+        url: /machine%20learning%20algorithms/SVM/#43-kernelized-svm
