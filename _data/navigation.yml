@@ -12,9 +12,9 @@ main:
   #   url: /sitemap/
 
 sidebar-SVM:
-  - title: "1. Maximum margin classifier"
+  - title: "1. Primal form"
     children:
-      - title: "1.1 Dicision boundary"
+      - title: "1.1 Decision boundary"
         url: /machine%20learning%20algorithms/SVM/#11-decision-boundary
       - title: "1.2 Functional margin"
         url: /machine%20learning%20algorithms/SVM/#12-functional-margin
