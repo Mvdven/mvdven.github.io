@@ -33,7 +33,7 @@ sidebar-SVM:
   - title: "3. Dual form"
     children:
       - title: "3.1 Dual optimization"
-        url: /machine%20learning%20algorithms/SVM/#31-dual-optimizion
+        url: /machine%20learning%20algorithms/SVM/#31-dual-optimization
       - title: "3.2 Solving dual form"
         url: /machine%20learning%20algorithms/SVM/#32-solving-dual-form
       - title: "3.3 KKT Conditions and strong duality"
