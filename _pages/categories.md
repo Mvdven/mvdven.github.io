@@ -3,8 +3,6 @@ layout: archive
 title: "Categories"
 permalink: /categories/
 author_profile: true
-header: 
- image: "/images/header-image.jpg"
 ---
 
 <div id="archives">
