@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Max van de Ven"
   avatar           : "/images/bio-photo.jpg" # path of avatar image, e.g. 
-  bio              : "Data Science Portfolio"
+  bio              : "A hyper parameters that tunes itself"
   location         : "Groningen, the Netherlands"
   email            :
   links:
