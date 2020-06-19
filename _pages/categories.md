@@ -4,7 +4,7 @@ title: "Categories"
 permalink: /categories/
 author_profile: true
 header:
-  "\images\header-image.jpg"
+  image: "/images/header-image.jpg"
 ---
 
 <div id="archives">
