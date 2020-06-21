@@ -54,3 +54,7 @@ sidebar-SVM:
         url: /machine%20learning%20algorithms/SVM/#51-update-rule
       - title: "5.2 Parameter clipping"
         url: /machine%20learning%20algorithms/SVM/#52-parameter-clipping
+      - title: "5.3 Selecting the threshold"
+        url: /machine%20learning%20algorithms/SVM/#53-selecting-the-threshold
+      - title: "5.4 Python implementation"
+        url: /machine%20learning%20algorithms/SVM/#54-python-implementation
