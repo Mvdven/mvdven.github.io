@@ -44,10 +44,8 @@ sidebar-SVM:
     children:
       - title: "4.1 Kernel trick"
         url: /machine%20learning%20algorithms/SVM/#41-kernel-trick
-      - title: "4.2 Kernel example"
-        url: /machine%20learning%20algorithms/SVM/#42-kernel-example
-      - title: "4.3 Kernelized SVM"
-        url: /machine%20learning%20algorithms/SVM/#43-kernelized-svm
+      - title: "4.2 Kernelized SVM"
+        url: /machine%20learning%20algorithms/SVM/#42-kernelized-svm
   - title: "5. SMO algorithm"
     children:
       - title: "5.1 Update rule"
